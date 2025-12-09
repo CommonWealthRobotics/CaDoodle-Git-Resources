@@ -3,7 +3,9 @@ import com.neuronrobotics.bowlerstudio.vitamins.Vitamins;
 import com.neuronrobotics.bowlerstudio.assets.AssetFactory;
 
 
-BowlerKernel.ensureUpdated(true,"https://github.com/CommonWealthRobotics/ExternalEditorsBowlerStudio.git",
+BowlerKernel.ensureUpdated(true,
+    "https://github.com/CommonWealthRobotics/ExternalEditorsBowlerStudio.git",
+    "https://github.com/CommonWealthRobotics/CaDoodle-Git-Resources.git",
     "https://github.com/CommonWealthRobotics/freecad-bowler-cli.git",
     "https://github.com/CommonWealthRobotics/blender-bowler-cli.git",
     "https://github.com/kennetek/gridfinity-rebuilt-openscad.git",

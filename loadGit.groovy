@@ -5,6 +5,7 @@ import com.neuronrobotics.bowlerstudio.assets.AssetFactory;
 
 BowlerKernel.ensureUpdated(true,
     "https://github.com/CommonWealthRobotics/BowlerStudioImageAssets.git",
+    "https://github.com/CommonWealthRobotics/BowlerStudioExampleRobots.git",
     "https://github.com/CommonWealthRobotics/CaDoodle-ShapesPalet-Content.git",
     "https://github.com/CommonWealthRobotics/ExternalEditorsBowlerStudio.git",
     "https://github.com/CommonWealthRobotics/CaDoodle-Git-Resources.git",

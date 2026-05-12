@@ -18,5 +18,6 @@ BowlerKernel.ensureUpdated(true,
     "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
     "https://github.com/madhephaestus/carl-the-hexapod.git",
     Vitamins.getGitRepoDatabase(), 
-    "https://github.com/CommonWealthRobotics/CaDoodle-ShapesPalet-Content.git");
+    "https://github.com/CommonWealthRobotics/CaDoodle-ShapesPalet-Content.git",
+	"https://github.com/madhephaestus/GearGenerator.git");
 Vitamins.loadAllScriptFiles();
